@@ -1,0 +1,5 @@
+{
+    "token": "TokenGoesHere",
+    "webserverIP": "127.0.0.1",
+    "webserverPort": 6487
+}

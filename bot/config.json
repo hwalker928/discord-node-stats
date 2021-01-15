@@ -1,5 +1,8 @@
 {
     "token": "TokenGoesHere",
     "webserverIP": "localhost",
-    "webserverPort": 6487
+    "webserverPort": 6487,
+    "channelUpdates": 793548512700399627,
+    "nodeOwnerID": 428450288668508160,
+    "nodeName": "DemoNode"
 }

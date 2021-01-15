@@ -8,7 +8,7 @@ with open('config.json') as config_file:
 
 @app.route('/cpu')
 def cpu_stats():
-    return str(psutil.cpu_percent(interval=None))
+    return str(psutil.cpu_percent())
 
 @app.route('/ram')
 def ram_stats():

@@ -2,7 +2,8 @@
     "token": "TokenGoesHere",
     "webserverIP": "localhost",
     "webserverPort": 6487,
-    "channelUpdates": 793548512700399627,
+    "channelUpdates": 784868999607484456,
     "nodeOwnerID": 428450288668508160,
-    "nodeName": "DemoNode"
+    "nodeName": "DemoNode",
+    "botPrefix": "!"
 }
